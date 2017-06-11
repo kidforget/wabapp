@@ -39,20 +39,20 @@
 	margin-right: 8px;
 }
 
-.cinemadetil {
+.cinamedetil {
 	color: #777;
 	margin: 0px;
 	font-size: 20px; 
 }
 
-.cinematime {
+.cinametime {
 	color: #777;
 	float: right;
 	margin: 0px;
 	font-size: 20px; 
 }
 
-.cinemasummary {
+.cinamesummary {
 	width: 400px;
 	list-style-type: none;
 	float: left;
@@ -60,7 +60,7 @@
 	margin-right: 15px;
 }
 
-.cinemadra {
+.cinamedra {
 	/*overflow:hidden; 
 	white-space:nowrap; 
 	text-overflow:ellipsis; /* for IE */ 
@@ -76,7 +76,7 @@
 	margin: 0px;
 }
 
-.cinemascore {
+.cinamescore {
 	color: #777;
 	margin: 0px;
 }
